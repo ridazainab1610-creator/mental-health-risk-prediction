@@ -102,7 +102,8 @@ streamlit run app.py
 
 ## 📸 Application Preview
 
-![alt text](image.png)
+![alt text](imagex\s:app.png) 
+
 
 ---
 
