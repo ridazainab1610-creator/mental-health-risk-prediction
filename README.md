@@ -102,7 +102,7 @@ streamlit run app.py
 
 ## 📸 Application Preview
 
-![alt text](imagex\s:app.png) 
+![Student Mental Health Predictor](images/app.png)
 
 
 ---
